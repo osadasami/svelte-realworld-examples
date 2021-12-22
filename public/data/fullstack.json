@@ -1,0 +1,193 @@
+{
+    "result": [{
+        "__component": "Implementation",
+        "id": "ckl7pmyqy00003b5uq5l4ced5",
+        "createdAt": {
+            "__date": "2021-02-16T07:55:03.474Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl7pmxze000009kz8reb14hx"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/remast/gobuff_realworld_example_app",
+        "frontendEnvironment": "web",
+        "language": "Go",
+        "libraries": ["Buffalo"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkdq5tfk00003f5uzkzx5o3p",
+        "createdAt": {
+            "__date": "2021-01-26T08:16:54.178Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/drashland/deno-drash-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Drash", "PostgreSQL", "Vue.js"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckqqdbyks00002z6hgy0x7dll",
+        "createdAt": {
+            "__date": "2021-07-05T08:36:52.786Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknxc0kq1000009mj7q9tbmba"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/cirosantilli/node-express-sequelize-nextjs-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Express", "Next.js", "Sequelize"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "cklzg19mj00003h5u58agm4fv",
+        "createdAt": {
+            "__date": "2021-03-07T17:43:40.900Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cklzg18vs000008mcbjmohj2c"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/andrewMacmurray/realworld-hasura",
+        "frontendEnvironment": "web",
+        "language": "Elm",
+        "libraries": ["Hasura"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckl7r1acd0001315yvr9qyjh7",
+        "createdAt": {
+            "__date": "2021-02-16T08:34:21.036Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl7qw4l3000008l2h5qz5lg6"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/rjaros/kvision-realworld-example-app-fullstack",
+        "frontendEnvironment": "web",
+        "language": "Kotlin",
+        "libraries": ["KVision", "Spring Boot"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckouzgcqx00003c546wg9h1be",
+        "createdAt": {
+            "__date": "2021-05-19T04:47:17.729Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckotuynq7000009ms015naw25"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/sawirricardo/realworld-tall-app",
+        "frontendEnvironment": "web",
+        "language": "PHP",
+        "libraries": ["Laravel", "Livewire", "Alpine.JS"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie80ctf00013f5vv9r6qosf",
+        "createdAt": {
+            "__date": "2020-12-07T07:17:28.811Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/layrjs/react-layr-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Layr", "React"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "cko2l3bn300003a5ufb1r9stm",
+        "createdAt": {
+            "__date": "2021-04-29T07:47:25.644Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknixhzwl000008l059vo3ibe"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/nhaancs/realworld-nx-nestjs-angular",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["NestJS", "Angular", "Nx"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckslt8erj0000316h49l9aqn3",
+        "createdAt": {
+            "__date": "2021-08-21T13:23:30.979Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckslt8drk000009m9hly79n0f"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/rakkasjs/rakkas-realworld",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Rakkas"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckl7prixy00003b5uuh2cdnof",
+        "createdAt": {
+            "__date": "2021-02-16T07:59:22.375Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl7pqpdr000008l01i0s4ubl"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/lifeiscontent/realworld",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Ruby on Rails", "Next.js"],
+        "markedAsUnmaintainedOn": null
+    }]
+}

@@ -1,0 +1,961 @@
+{
+    "result": [{
+        "__component": "Implementation",
+        "id": "ckj1hffxh00002a61mvbp9cgn",
+        "createdAt": {
+            "__date": "2020-12-23T13:58:49.901Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckj1hfe5r000009mk9li07svs"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/coding-blocks-archives/Conduit_Android_Kotlin",
+        "frontendEnvironment": "mobile",
+        "language": "Kotlin",
+        "libraries": ["Android Native"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "cknfxfqd300003b5s6wro6nwc",
+        "createdAt": {
+            "__date": "2021-04-13T11:19:43.442Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknfxfp3h000009ld1z58aial"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/Marvel999/Conduit-Android-kotlin",
+        "frontendEnvironment": "mobile",
+        "language": "Kotlin",
+        "libraries": ["Android Native", "Retrofit", "Jetpack"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidkk4av00023f5ygta12mmo",
+        "createdAt": {
+            "__date": "2020-12-06T20:23:31.941Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/angular-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "TypeScript",
+        "libraries": ["Angular"],
+        "markedAsUnmaintainedOn": {
+            "__date": "2021-02-04T08:20:46.764Z"
+        }
+    }, {
+        "__component": "Implementation",
+        "id": "ckl3i4dzg00003g612hh5m9az",
+        "createdAt": {
+            "__date": "2021-02-13T09:14:23.382Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl3i4an2000008mkei526i4t"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/khaledosman/angular-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Angular"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie37vjg00003f5yrg84h6km",
+        "createdAt": {
+            "__date": "2020-12-07T05:12:00.347Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "TypeScript",
+        "libraries": ["Angular", "NgRx", "Nx"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidxf1c700033f5y728sghwt",
+        "createdAt": {
+            "__date": "2020-12-07T02:21:02.664Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/angularjs-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["AngularJS 1"],
+        "markedAsUnmaintainedOn": {
+            "__date": "2021-02-13T23:05:35.424Z"
+        }
+    }, {
+        "__component": "Implementation",
+        "id": "ckie45z7o00003f5yj1naatjk",
+        "createdAt": {
+            "__date": "2020-12-07T05:31:21.039Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/apprun-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "TypeScript",
+        "libraries": ["AppRun"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie3lc5l00013f5yxf7m7vcg",
+        "createdAt": {
+            "__date": "2020-12-07T05:12:47.681Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/aurelia-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["Aurelia"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkd3cdma00003f5um2r6aknm",
+        "createdAt": {
+            "__date": "2021-01-25T21:37:51.790Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/JoeyMckenzie/BlazorConduit",
+        "frontendEnvironment": "web",
+        "language": "C#",
+        "libraries": ["Blazor", "WebAssembly"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie55ns800073f5ypejmsiq5",
+        "createdAt": {
+            "__date": "2020-12-07T05:56:34.272Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/crizmas-mvc-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["crizmas-mvc"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie4sxsr00023f5ykl229p2u",
+        "createdAt": {
+            "__date": "2020-12-07T05:46:17.418Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/dojo-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "TypeScript",
+        "libraries": ["Dojo"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidkzwpe00043f5yi75giz0v",
+        "createdAt": {
+            "__date": "2020-12-06T20:31:59.463Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/rtfeldman/elm-spa-example",
+        "frontendEnvironment": null,
+        "language": "Elm",
+        "libraries": ["Elm"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie41yfo00003f5ytl986xjk",
+        "createdAt": {
+            "__date": "2020-12-07T05:25:17.863Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/ember-realworld",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["Ember.js"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidx77a200003f5yu0lq3jz7",
+        "createdAt": {
+            "__date": "2020-12-07T02:14:50.763Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/thomashoneyman/purescript-halogen-realworld",
+        "frontendEnvironment": null,
+        "language": "PureScript",
+        "libraries": ["Halogen"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkekbcop00003f5uvrvqt8w9",
+        "createdAt": {
+            "__date": "2021-01-26T22:20:27.825Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/rlander/conduit",
+        "frontendEnvironment": "web",
+        "language": "ClojureScript",
+        "libraries": ["Hoplon", "shadow-cljs"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie4qlue00013f5y3y5k73vo",
+        "createdAt": {
+            "__date": "2020-12-07T05:44:41.354Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/kwasniew/hyperapp-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["Hyperapp"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie53gfa00063f5y4u8mgm2f",
+        "createdAt": {
+            "__date": "2020-12-07T05:54:32.385Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/cartonalexandre/imba-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["Imba"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie4jgzl00033f5ywwwwl7l8",
+        "createdAt": {
+            "__date": "2020-12-07T05:39:09.285Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/clojurescript-keechma-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "ClojureScript",
+        "libraries": ["Keechma"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "cko0qlv2s00003b5ltjrpqnhe",
+        "createdAt": {
+            "__date": "2021-04-28T00:46:52.569Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cko0ivilo000009l87a5ia7bg"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/brucou/realworld-kingly-svelte",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Kingly", "Svelte"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckl7qylj30000315y1mh70m41",
+        "createdAt": {
+            "__date": "2021-02-16T08:32:43.465Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl7qw4l3000008l2h5qz5lg6"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/rjaros/kvision-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "Kotlin",
+        "libraries": ["KVision"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "cknpi2wpk0000245u144ult81",
+        "createdAt": {
+            "__date": "2021-04-20T04:02:32.542Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknpi2uqc000008gw97hwg5kt"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/mint-lang/mint-realworld",
+        "frontendEnvironment": "web",
+        "language": "Mint",
+        "libraries": ["Mint"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie5jvrn00003f5vb1xba8ew",
+        "createdAt": {
+            "__date": "2020-12-07T06:07:59.732Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/nea/nativescript-realworld-example-app",
+        "frontendEnvironment": "mobile",
+        "language": "TypeScript",
+        "libraries": ["NativeScript", "Angular"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie4yl4i00053f5y8h4zasox",
+        "createdAt": {
+            "__date": "2020-12-07T05:52:42.767Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/neomjs/neomjs-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["neo.mjs"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie4a7cb00013f5y685y0zzg",
+        "createdAt": {
+            "__date": "2020-12-07T05:33:18.727Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/reck1ess/next-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "TypeScript",
+        "libraries": ["Next.js", "SWR"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkdrsxyf00003f5u4ctb226w",
+        "createdAt": {
+            "__date": "2021-01-26T09:02:59.818Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/devJang/nuxt-realworld",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Nuxt.js"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckp6fbps600003h5u29yy01zf",
+        "createdAt": {
+            "__date": "2021-05-28T08:28:32.407Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckp6fapl6000009led4sjdaqx"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/Coding-Dodo/owl-realworld-app",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["OWL (Odoo Web Library)"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkcanjec00003f5uuno1i5id",
+        "createdAt": {
+            "__date": "2021-01-25T08:14:49.919Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknncmokt000008me3v5vc4vn"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/mutoe/preact-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Preact"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidx9hye00013f5yexybpmq6",
+        "createdAt": {
+            "__date": "2020-12-07T02:17:01.153Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/jacekschae/conduit",
+        "frontendEnvironment": null,
+        "language": "ClojureScript",
+        "libraries": ["re-frame"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "cksan7f580000396izxqkjx31",
+        "createdAt": {
+            "__date": "2021-08-13T17:48:50.992Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cksan7er1000008gt3xl7gx12"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/angelguzmaning/ts-redux-react-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["React (using hooks)", "Redux"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkd4kkle00013f5uipc6uj9e",
+        "createdAt": {
+            "__date": "2021-01-25T22:11:53.080Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/jonasbuntinx/purescript-react-realworld",
+        "frontendEnvironment": "web",
+        "language": "PureScript",
+        "libraries": ["React + PureScript"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckir5w2qc00003g5tq0qa2mtx",
+        "createdAt": {
+            "__date": "2020-12-16T08:44:19.577Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckir5vw52000008l7bcz79yxa"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/flexsurfer/conduitrn",
+        "frontendEnvironment": "mobile",
+        "language": "ClojureScript",
+        "libraries": ["React Native", "re-frame"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckl951sx100003a5zdlrmat3g",
+        "createdAt": {
+            "__date": "2021-02-17T07:55:10.479Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl951rur000008mn4htof6fy"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/mg901/effector-react-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["React", "Effector"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidl17m300053f5yl2o8dfvj",
+        "createdAt": {
+            "__date": "2020-12-06T20:33:00.156Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/react-mobx-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["React", "MobX"],
+        "markedAsUnmaintainedOn": {
+            "__date": "2021-02-24T07:45:31.100Z"
+        }
+    }, {
+        "__component": "Implementation",
+        "id": "ckl3i713e00013g61bkp2bouz",
+        "createdAt": {
+            "__date": "2021-02-13T09:15:06.641Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl3i4an2000008mkei526i4t"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/khaledosman/react-redux-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["React", "Redux"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckq6nx6id00003h6h1iw2s8va",
+        "createdAt": {
+            "__date": "2021-06-21T13:37:15.683Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckq6nwwtr000009l58vvx08xy"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/jihchi/rescript-react-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "ReScript",
+        "libraries": ["React", "rescript-react"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckrq84cbv00003h6njigvca7h",
+        "createdAt": {
+            "__date": "2021-07-30T11:06:09.356Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckrq84bci000008i6c395ckn6"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/romansndlr/react-vite-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["React", "Vite"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckl7c193p00003g5vt3xb12ex",
+        "createdAt": {
+            "__date": "2021-02-16T01:34:15.021Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/iq3addLi/riot_realworld_example_app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Riot"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie4uuxl00033f5ypvu12nk9",
+        "createdAt": {
+            "__date": "2020-12-07T05:47:48.675Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/ecomfe/san-realworld-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["San"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkacapw200013g5txrdyadc4",
+        "createdAt": {
+            "__date": "2021-01-23T23:24:20.945Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/seed-rs/seed-rs-realworld",
+        "frontendEnvironment": "web",
+        "language": "Rust",
+        "libraries": ["Seed"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckizjb5is00003a5xn3n955f2",
+        "createdAt": {
+            "__date": "2020-12-22T05:16:42.953Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckizjb578000008kx94jf2khg"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/ryansolid/solid-realworld",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Solid"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckl3i7zyb00003g62swvzim43",
+        "createdAt": {
+            "__date": "2021-02-13T09:15:33.489Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl3i4an2000008mkei526i4t"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/khaledosman/stencil-realworld-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Stencil"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidl3vur00063f5ylk4n1pma",
+        "createdAt": {
+            "__date": "2020-12-06T20:36:27.840Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknmk46qt000008kx6ahj6676"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/sveltejs/realworld",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Svelte", "SvelteKit"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie4hvwp00023f5ylzotn6d0",
+        "createdAt": {
+            "__date": "2020-12-07T05:37:49.463Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/web-components-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Vanilla JS", "Web Components"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckm2mmsqq00003g5zf7hbhvrt",
+        "createdAt": {
+            "__date": "2021-03-09T23:12:32.923Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/mits-gossau/event-driven-web-components-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "JavaScript",
+        "libraries": ["Vanilla JS", "Web Components", "Event Driven"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckkdqt7vb00013f5us2fyh67t",
+        "createdAt": {
+            "__date": "2021-01-26T08:35:29.443Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknncmokt000008me3v5vc4vn"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/mutoe/vue3-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Vue.js", "Vite"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckidkr41800033f5ykcibokb7",
+        "createdAt": {
+            "__date": "2020-12-06T20:26:58.015Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/gothinkster/vue-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "JavaScript",
+        "libraries": ["Vue.js", "Vuex"],
+        "markedAsUnmaintainedOn": {
+            "__date": "2021-02-04T08:24:05.842Z"
+        }
+    }, {
+        "__component": "Implementation",
+        "id": "ckl3pnf2c00003g61bh25s4et",
+        "createdAt": {
+            "__date": "2021-02-13T12:45:52.552Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckl3i4an2000008mkei526i4t"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/khaledosman/vue-realworld-example-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Vue.js", "Vuex"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckrkyjmj500003h6js4jkrtsq",
+        "createdAt": {
+            "__date": "2021-07-26T18:23:49.065Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckrkyiyte000008mm62zb9ijj"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/AlexBrohshtut/vue-ts-realworld-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Vue.js", "Vuex"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "cknj1mzng00001w5xfpku4ejk",
+        "createdAt": {
+            "__date": "2021-04-15T15:35:51.680Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "cknj1m9bw000108lb6i9s3c19"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/wesib/realworld-app",
+        "frontendEnvironment": "web",
+        "language": "TypeScript",
+        "libraries": ["Wesib"],
+        "markedAsUnmaintainedOn": null
+    }, {
+        "__component": "Implementation",
+        "id": "ckie3o4x600023f5yz8hoxyxj",
+        "createdAt": {
+            "__date": "2020-12-07T05:14:52.639Z"
+        },
+        "owner": {
+            "__component": "User",
+            "id": "ckidkdm060000k4li8bcufccp"
+        },
+        "project": {
+            "__component": "Project",
+            "id": "ckl2zgmut0000zrliha42alz6"
+        },
+        "repositoryURL": "https://github.com/jetli/rust-yew-realworld-example-app",
+        "frontendEnvironment": null,
+        "language": "Rust",
+        "libraries": ["Yew", "WebAssembly"],
+        "markedAsUnmaintainedOn": null
+    }]
+}
